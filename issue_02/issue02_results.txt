@@ -1,0 +1,13 @@
+pytest -v  test_issue02.py::test_decode
+================================================================================== test session starts ===================================================================================
+platform win32 -- Python 3.8.5, pytest-6.1.2, py-1.9.0, pluggy-0.13.1 -- c:\users\mi\downloads\untitled3\venv\scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\mi\Downloads\untitled3
+collected 3 items
+
+test_issue02.py::test_decode[... --- ...-SOS] PASSED                                                                                                                                [ 33%]
+test_issue02.py::test_decode[-... . . .-.-BEER] PASSED                                                                                                                              [ 66%]
+test_issue02.py::test_decode[-- .. -. -..-MIND] PASSED                                                                                                                              [100%]
+
+=================================================================================== 3 passed in 0.02s ====================================================================================
+
