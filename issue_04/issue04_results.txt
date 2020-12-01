@@ -1,0 +1,14 @@
+pytest -v  issue04.py
+================================================================================== test session starts ===================================================================================
+platform win32 -- Python 3.8.5, pytest-6.1.2, py-1.9.0, pluggy-0.13.1 -- c:\users\mi\downloads\untitled3\venv\scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\mi\Downloads\untitled3
+collected 4 items
+
+issue04.py::test_encoding PASSED                                                                                                                                                    [ 25%]
+issue04.py::test_empty PASSED                                                                                                                                                       [ 50%]
+issue04.py::test_exception PASSED                                                                                                                                                   [ 75%]
+issue04.py::test_matrix PASSED                                                                                                                                                      [100%]
+
+=================================================================================== 4 passed in 0.05s ====================================================================================
+
